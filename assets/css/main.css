@@ -816,7 +816,7 @@ section,
   height: 100%;
   object-fit: cover;
   z-index: 1;
-  animation: zoom-in 15s infinite alternate;
+  animation: zoom-in 7.5s infinite alternate;
 }
 
 @keyframes zoom-in {
